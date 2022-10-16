@@ -29,3 +29,8 @@ Aplikasi ini menggunakan API kalender. Dalam aplikasi ini user dapat melihat kal
     "react-native-modal-datetime-picker": "^13.1.2",
     "@react-native-community/datetimepicker": "6.2.0",
     "@react-native-async-storage/async-storage": "~1.17.3"
+    
+ # CARA MENGINSTALL APLIKASI (DALAM MODE PENGEMBANGAN)
+ 1. Download file aplikasi (format .apk) pada link berikut ini : https://expo.dev/artifacts/a91da34b-a150-49b2-acdd-4a4ac98ead1f
+ 2. Jika sudah selesai menginstall pada android maka klik install seperti gambar berikut :
+    
