@@ -35,4 +35,8 @@ Aplikasi ini menggunakan API kalender. Dalam aplikasi ini user dapat melihat kal
  2. Jika sudah selesai menginstall pada android maka klik install seperti gambar berikut :
     ![WhatsApp Image 2022-10-16 at 23 02 06](https://user-images.githubusercontent.com/100962621/196046944-d590071e-c481-4ca8-8809-daf0e3256cb8.jpeg)
  3. Jika ada peringatan dari sistem keamanan maka klik tetap install saja.
+    ![WhatsApp Image 2022-10-16 at 23 02 07](https://user-images.githubusercontent.com/100962621/196047072-f9ce5f05-cd00-4137-9044-1611bd6b0b7c.jpeg)
+ 4. Buka Aplikasi yang telah di install lalu gunakan fitur yang tersedia.
+ 
+ # TAMPILAN APLIKASI
  
